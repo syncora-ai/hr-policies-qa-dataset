@@ -45,7 +45,7 @@ Each entry represents a **self-contained dialogue snippet** designed to reflect 
 
 ## 🚀 Quick Links  
 
-- [📥 **Download Free Dataset**](https://github.com/syncora-ai/hr-policies-qa-dataset/blob/main/HR_policy_dataset.ipynb)  
+- [📥 **Download Free Dataset**](https://github.com/syncora-ai/hr-policies-qa-dataset/blob/main/dataset%20output.jsonl)  
   Access the full dataset instantly in JSON format. Perfect for anyone who wants a **ready-to-use dataset for LLM training**.  
 
 - [📓 **Explore Notebook**](https://github.com/syncora-ai/hr-policies-qa-dataset/blob/main/HR%20Policy%20NB.ipynb)  
